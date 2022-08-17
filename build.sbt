@@ -6,3 +6,5 @@ lazy val root = (project in file("."))
   .settings(
     name := "FPP_Scala"
   )
+
+libraryDependencies += "org.apache.commons" % "commons-parent" % "48"
