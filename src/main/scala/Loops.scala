@@ -39,6 +39,6 @@ object Loops extends App {
   } yield (x,y)
 
   // equivalent code = for comprehension complies to THIS
-  List(1,2,3).flatmap(x => List(4,5,6).map(y => (x,y)))
+  List(1,2,3).flatMap(x => List(4,5,6).map(y => (x,y)))
 
 }
