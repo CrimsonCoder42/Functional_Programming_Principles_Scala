@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Reading files">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Loops.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="NNNNU" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
-      <workItem from="1660740249291" duration="11480000" />
+      <workItem from="1660740249291" duration="11910000" />
     </task>
     <task id="LOCAL-00001" summary="Reading files">
       <created>1660752938252</created>
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660752938252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NNNNU">
+      <created>1660912319219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660912319219</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reading files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reading files" />
+    <MESSAGE value="NNNNU" />
+    <option name="LAST_COMMIT_MESSAGE" value="NNNNU" />
   </component>
 </project>
