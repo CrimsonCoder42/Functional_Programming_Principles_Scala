@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/DGMD_FINAL_PROJECT_Q_A - QandA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ReadingFiles.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/FPP_Scala-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FPP_Scala-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/FPP_Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FPP_Scala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Reading files">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Loops.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Basics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Basics.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +55,16 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadingFiles">
+  <component name="RunManager" selected="Application.Loops">
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Basics" />
+      <module name="FPP_Scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
       <module name="FPP_Scala" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.ReadingFiles" />
         <item itemvalue="Application.Basics" />
       </list>
@@ -94,8 +96,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
-      <workItem from="1660740249291" duration="8430000" />
+      <workItem from="1660740249291" duration="11480000" />
     </task>
+    <task id="LOCAL-00001" summary="Reading files">
+      <created>1660752938252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660752938252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reading files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reading files" />
   </component>
 </project>
