@@ -20,16 +20,16 @@ package scalaChallenges2
         10
         */
 
-object FactorPrinter extends app{
+object FactorPrinter extends App{
 
 
   
 
 
-  printFactors(6)
-  printFactors(32)
-  printFactors(10)
-  printFactors(-1)
+//  printFactors(6)
+//  printFactors(32)
+//  printFactors(10)
+//  printFactors(-1)
 
 
 }

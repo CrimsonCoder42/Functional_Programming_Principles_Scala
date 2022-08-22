@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="CSV files added" />
+    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="CSV files added and excel files deleted">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/AreaCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/AreaCalculator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/FactorPrinter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/FactorPrinter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Basics$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Basics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Basics.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Loops$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Loops.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Animal$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Carnivore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Crocodile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$MySingleton$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$Philosopher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation$WalkingAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ObjectOrientation.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ReadingFiles$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ReadingFiles$RichFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ReadingFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/ReadingFiles.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/SortingandTailrec$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/SortingandTailrec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/SortingandTailrec.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/TypeClasses$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/TypeClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/TypeClasses.tasty" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +98,20 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Basics">
+  <component name="RunManager" selected="Application.AreaCalculator">
+    <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaChallenges1.AreaCalculator" />
+      <module name="FPP_Scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaChallenges1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Basics" />
       <module name="FPP_Scala" />
@@ -90,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreaCalculator" />
         <item itemvalue="Application.Basics" />
         <item itemvalue="Application.NNNNU" />
         <item itemvalue="Application.Loops" />
@@ -108,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
-      <workItem from="1660740249291" duration="32508000" />
+      <workItem from="1660740249291" duration="35600000" />
     </task>
     <task id="LOCAL-00001" summary="Reading files">
       <created>1660752938252</created>
@@ -194,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661182902547</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="CSV files added and excel files deleted">
+      <created>1661183694675</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661183694675</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +279,7 @@
     <MESSAGE value="Type classes" />
     <MESSAGE value="challenges made" />
     <MESSAGE value="CSV files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSV files added" />
+    <MESSAGE value="CSV files added and excel files deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSV files added and excel files deleted" />
   </component>
 </project>

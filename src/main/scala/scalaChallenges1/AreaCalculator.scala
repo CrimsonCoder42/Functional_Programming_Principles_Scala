@@ -1,5 +1,8 @@
 package scalaChallenges1
 
+import scala.math._
+
+
 /*
         Write a method named area with one double parameter named radios.
         The method need to return a double value that represents the area of a circle.
@@ -16,12 +19,27 @@ package scalaChallenges1
         *   area(-1.0, 4.0); should return -1 since the first parameter is negative.
         */
 
+//def main(args: Array[String]): Unit = {
+//
+//
+//}
+
 object AreaCalculator extends App{
 
+  def area(radius: Double): Double = {
+    if(radius < 0) -1.0
+    else Pi * (radius * radius)
+  }
 
-//  println(area(5.0))
-//  println(area(-1))
-//  println(area(5.0, 4.0))
-//  println(area(-1.0, 4.0))
+  def area(x:Double, y: Double): Double = {
+    if(x < 0 || y < 0) -1
+    else x * y
+
+  }
+
+  println(area(5.0))
+  println(area(-1))
+  println(area(5.0, 4.0))
+  println(area(-1.0, 4.0))
 
 }
