@@ -1,3 +1,5 @@
+package lectures
+
 object Basics extends App {
 
   // defining a value
@@ -19,7 +21,7 @@ object Basics extends App {
   // if-expression
   val ifExpression = if (meaningOfLife > 43) 56 else 999 // in other languages: meaningOfLife > 43 ? 56: 999
   val chainedIfExpression =
-    if(meaningOfLife > 43) 56
+    if (meaningOfLife > 43) 56
     else if (meaningOfLife < 0) -2
     else if (meaningOfLife > 999) 78
     else 0
@@ -36,19 +38,19 @@ object Basics extends App {
 
 
 
-    //define a function *** A CODE BLOCK IS ALSO AN EXPRESSION ***
+  //define a function *** A CODE BLOCK IS ALSO AN EXPRESSION ***
 
-    def myFunction(x: Int, y: String): String = {
-      y + " " + x
-    }
+  def myFunction(x: Int, y: String): String = {
+    y + " " + x
+  }
 
-    // recursive functions
+  // recursive functions
 
-    def factorial(n: Int): Int =
-      if (n <= 1) 1
-      else n * factorial(n - 1)
+  def factorial(n: Int): Int =
+    if (n <= 1) 1
+    else n * factorial(n - 1)
 
-    println(factorial(5))
+  println(factorial(5))
 
 
 }

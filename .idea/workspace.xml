@@ -5,8 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Type classes">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/TypeClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/Loops.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/ObjectOrientation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/ReadingFiles.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/SortingandTailrec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/TypeClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/AreaCalculator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/BarkingDog.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/DecimalComparator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/EqualSumChecker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/IntEqualityPrinter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/LeapYear.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/MegaBytesConverter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/MinutesToYearsDaysCalculator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/PlayingCat.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/SpeedConverter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/TeenNumberChecker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/DiagonalStar.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/EvenDigitSum.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/FactorPrinter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/FirstLastDigitSum.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/FlourPacker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/GreatestCommonDivisor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/InputCalculator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/LargestPrime.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/LastDigitChecker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/NumberInWord.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/NumberOfDaysInMonth.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/NumberPalindrome.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/NumberToWords.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/PaintJob.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/PerfectNumber.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/SharedDigit.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges2/SumOddRange.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Basics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/Basics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Loops.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/NNNNU.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/NNNNU.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ObjectOrientation.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ReadingFiles.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SortingandTailrec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TypeClasses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/NNNNU.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +63,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +105,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NNNNU">
+  <component name="RunManager" selected="Application.Basics">
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Basics" />
       <module name="FPP_Scala" />
@@ -86,10 +136,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Basics" />
         <item itemvalue="Application.NNNNU" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.ReadingFiles" />
-        <item itemvalue="Application.Basics" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
-      <workItem from="1660740249291" duration="25385000" />
+      <workItem from="1660740249291" duration="31770000" />
     </task>
     <task id="LOCAL-00001" summary="Reading files">
       <created>1660752938252</created>
@@ -162,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661173905477</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Type classes">
+      <created>1661176208086</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661176208086</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

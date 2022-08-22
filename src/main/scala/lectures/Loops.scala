@@ -1,3 +1,5 @@
+package lectures
+
 object Loops extends App {
 
   // Java
@@ -19,26 +21,26 @@ object Loops extends App {
 
   // transform a list
 
-  List(1,2,3).map(x => x + 1) // List(2,3,4)
-  List(1,2,3).flatMap(n => Seq.fill(n)(1)) // List(1, 1,1, 1,1,1, 1,1,1,1)
-  List(1,2,3).filter(n=> n % 42 == 0)
+  List(1, 2, 3).map(x => x + 1) // List(2,3,4)
+  List(1, 2, 3).flatMap(n => Seq.fill(n)(1)) // List(1, 1,1, 1,1,1, 1,1,1,1)
+  List(1, 2, 3).filter(n => n % 42 == 0)
   // fold, find, count, maxBy, sum, reduce
 
   // newb= "how can I loop through this list?"
   // mature = " How can I TRANSFORM this into what I want?"
 
-  List(1,2,3).foreach { x => // lambda = function = function object
+  List(1, 2, 3).foreach { x => // lambda = function = function object
     println(x)
   }
 
   // for comprehensions
 
   for {
-    x <- List(1,2,3)
-    y <- List(1,2,3)
-  } yield (x,y)
+    x <- List(1, 2, 3)
+    y <- List(1, 2, 3)
+  } yield (x, y)
 
   // equivalent code = for comprehension complies to THIS
-  List(1,2,3).flatMap(x => List(4,5,6).map(y => (x,y)))
+  List(1, 2, 3).flatMap(x => List(4, 5, 6).map(y => (x, y)))
 
 }

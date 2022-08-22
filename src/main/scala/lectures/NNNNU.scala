@@ -1,3 +1,5 @@
+package lectures
+
 object NNNNU extends App {
 
   // nothingness differences
@@ -9,6 +11,7 @@ object NNNNU extends App {
 
   // 2 - Null
   class Person
+
   val theNullReference: Null = null
   val noString: String = theNullReference
   val noPerson: Person = theNullReference
@@ -23,6 +26,7 @@ object NNNNU extends App {
   // Unit: Equal to Void in other languages
 
   def aUnitReturningMethod(): Unit = println("I'm starting to get the difference")
+
   val theUnit: Unit = ()
 
   // 6 - Nothing = no value at all

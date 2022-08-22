@@ -1,3 +1,5 @@
+package lectures
+
 import java.io.File
 import java.util.Scanner
 import scala.io.Source
@@ -10,17 +12,16 @@ object ReadingFiles extends App {
 
   val file = new File(filePath)
   val scanner = new Scanner(file)
-//  while(scanner.hasNextLine) {
-//    val line = scanner.nextLine()
-//    println(line)
-//  }
-
+  //  while(scanner.hasNextLine) {
+  //    val line = scanner.nextLine()
+  //    println(line)
+  //  }
 
 
   //version 3 - The scala way
 
-//  val scalaFileContents: Iterator[String] = Source.fromFile(file).getLines
-//  scalaFileContents.foreach(println)
+  //  val scalaFileContents: Iterator[String] = Source.fromFile(file).getLines
+  //  scalaFileContents.foreach(println)
 
   //version 4 - open("path").read enhances the file type built into Java through the implicit class
   //
