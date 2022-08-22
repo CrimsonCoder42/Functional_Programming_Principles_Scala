@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="sorting and tailrec">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ObjectOrientation.scala" afterDir="false" />
+    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="OOP Scala">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
-      <workItem from="1660740249291" duration="20980000" />
+      <workItem from="1660740249291" duration="22821000" />
     </task>
     <task id="LOCAL-00001" summary="Reading files">
       <created>1660752938252</created>
@@ -141,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660924131503</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OOP Scala">
+      <created>1660928172937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660928172937</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +168,7 @@
     <MESSAGE value="Reading files" />
     <MESSAGE value="NNNNU" />
     <MESSAGE value="sorting and tailrec" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting and tailrec" />
+    <MESSAGE value="OOP Scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Scala" />
   </component>
 </project>
