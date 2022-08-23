@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Area calculator done">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/Expressions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/Functions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/FunctionChallenge.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaFileChallenge/readfile1.scala" afterDir="false" />
+    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="stack and tail">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/Recursion.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/RecursionChallenge.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Basics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/Basics.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/AreaCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/AreaCalculator.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/BarkingDog.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/BarkingDog.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
-      <workItem from="1660740249291" duration="47173000" />
+      <workItem from="1660740249291" duration="50346000" />
     </task>
     <task id="LOCAL-00001" summary="Reading files">
       <created>1660752938252</created>
@@ -256,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661189643876</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="stack and tail">
+      <created>1661266161605</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661266161605</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +284,7 @@
     <MESSAGE value="CSV files added" />
     <MESSAGE value="CSV files added and excel files deleted" />
     <MESSAGE value="Area calculator done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Area calculator done" />
+    <MESSAGE value="stack and tail" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack and tail" />
   </component>
 </project>
