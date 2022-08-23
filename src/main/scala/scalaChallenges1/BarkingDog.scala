@@ -17,6 +17,8 @@ package scalaChallenges1
 
 object BarkingDog extends App {
 
+
+
 //  println(shouldWakeUp(true, 1))
 //  println(shouldWakeUp(false, 2))
 //  println(shouldWakeUp(true, 8))

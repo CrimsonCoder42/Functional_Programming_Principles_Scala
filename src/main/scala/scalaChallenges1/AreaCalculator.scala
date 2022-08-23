@@ -19,10 +19,6 @@ import scala.math._
         *   area(-1.0, 4.0); should return -1 since the first parameter is negative.
         */
 
-//def main(args: Array[String]): Unit = {
-//
-//
-//}
 
 object AreaCalculator extends App{
 
