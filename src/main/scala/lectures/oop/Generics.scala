@@ -1,5 +1,7 @@
 package lectures.oop
 
-object Generics {
+object Generics extends App {
+
+
 
 }
