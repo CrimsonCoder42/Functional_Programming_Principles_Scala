@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Inheritance and traits">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/oop/AbstractDataTypes.scala" afterDir="false" />
+    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Abstract data types">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/MyList.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/InheritanceAndTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/InheritanceAndTraits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/InheritanceAndTraits.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/InheritanceAndTraits.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/AbstractDataTypes$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/AbstractDataTypes$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/AbstractDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/AbstractDataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/AbstractDataTypes.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/oop/AbstractDataTypes.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
       <workItem from="1660740249291" duration="52740000" />
-      <workItem from="1661281382669" duration="24113000" />
+      <workItem from="1661281382669" duration="27788000" />
     </task>
     <task id="LOCAL-00001" summary="Reading files">
       <created>1660752938252</created>
@@ -336,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661354041808</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Abstract data types">
+      <created>1661357122446</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1661357122446</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +377,7 @@
     <MESSAGE value="OOP" />
     <MESSAGE value="method Notations" />
     <MESSAGE value="Inheritance and traits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and traits" />
+    <MESSAGE value="Abstract data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract data types" />
   </component>
 </project>
