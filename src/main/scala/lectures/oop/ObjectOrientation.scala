@@ -1,4 +1,4 @@
-package lectures
+package lectures.oop
 
 object ObjectOrientation extends App {
 

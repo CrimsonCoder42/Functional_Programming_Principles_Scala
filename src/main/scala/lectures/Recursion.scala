@@ -16,7 +16,7 @@ object Recursion extends App {
   //  println(factorial(5000)) // stack overflow!
 
   def anotherFactorial(n: Int): BigInt = {
-    @tailrec
+   
     def factHelper(x: Int, accumulator: BigInt): BigInt =
       if (x <= 1) accumulator
       else factHelper(x - 1, x * accumulator) // TAIL RECURSION = use recursive call as the LAST expression
