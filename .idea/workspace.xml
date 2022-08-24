@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Recursion">
+    <list default="true" id="80db1591-c9b1-4899-a87f-68d7b627151e" name="Changes" comment="Try pre req sample problem from course">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Retail_Data_Transactions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaFileChallenge/prereqChallenge.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log1101799886126923190.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log6847197089880378652.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/Recursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/RecursionChallenge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaChallenges1/RecursionChallenge.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionChallenge">
+  <component name="RunManager" selected="Application.prereqChallenge">
     <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="scalaChallenges1.AreaCalculator" />
       <module name="FPP_Scala" />
@@ -116,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="readfile1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaFileChallenge.readfile1" />
+    <configuration name="prereqChallenge" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaFileChallenge.prereqChallenge" />
       <module name="FPP_Scala" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prereqChallenge" />
         <item itemvalue="Application.FunctionChallenge" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.lectures.Basics" />
         <item itemvalue="Application.AreaCalculator" />
-        <item itemvalue="Application.readfile1" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660740248207</updated>
       <workItem from="1660740249291" duration="52740000" />
-      <workItem from="1661281382669" duration="11000" />
+      <workItem from="1661281382669" duration="7158000" />
     </task>
     <task id="LOCAL-00001" summary="Reading files">
       <created>1660752938252</created>
@@ -265,7 +267,35 @@
       <option name="project" value="LOCAL" />
       <updated>1661270061412</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Try pre req sample problem from course">
+      <created>1661281418347</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661281418347</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Try pre req sample problem from course">
+      <created>1661281453925</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661281453925</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Try pre req sample problem from course">
+      <created>1661281508765</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661281508765</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Try pre req sample problem from course">
+      <created>1661281515979</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1661281515979</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +324,7 @@
     <MESSAGE value="Area calculator done" />
     <MESSAGE value="stack and tail" />
     <MESSAGE value="Recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursion" />
+    <MESSAGE value="Try pre req sample problem from course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try pre req sample problem from course" />
   </component>
 </project>

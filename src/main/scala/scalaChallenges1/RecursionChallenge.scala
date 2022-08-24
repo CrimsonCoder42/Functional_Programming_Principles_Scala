@@ -9,7 +9,7 @@ package scalaChallenges1
 
 object RecursionChallenge extends App {
 
-  @tailrec
+
   def concatenateTailrec(aString: String, n: Int, accumulator: String): String =
     if (n <= 0) accumulator // If less than 0 returning the accumulator
     else concatenateTailrec(aString, n - 1, aString + accumulator) // accumulator stores old string plus whatever is added
@@ -18,7 +18,7 @@ object RecursionChallenge extends App {
 
 
   def isPrime(n: Int): Boolean = {
-    @tailrec
+
     def isPrimeTailrec(t: Int, isStillPrime: Boolean): Boolean =
       if (!isStillPrime) false
       else if (t <= 1) true
